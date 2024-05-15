@@ -1,4 +1,4 @@
-Python String Methods 
+# Python String Methods 
 
 This repository contains a cheat sheet for commonly used string methods in Python.
 
